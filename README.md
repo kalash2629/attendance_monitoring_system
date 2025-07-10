@@ -1,3 +1,6 @@
+📘 What is an Attendance Monitoring System?
+
+
 An Attendance Monitoring System is a digital solution used to track, record, and manage the attendance of individuals, typically in environments such as->
 
 * Educational institutions (students)
