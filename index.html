@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Attendance Monitoring System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Attendance Monitoring System</h1>
+    <table id="attendanceTable">
+      <thead>
+        <tr>
+          <th>Roll No.</th>
+          <th>Name</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody id="studentBody"></tbody>
+    </table>
+    <button onclick="exportToCSV()">Export to CSV</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
